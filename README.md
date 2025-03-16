@@ -1,4 +1,4 @@
-### Booklets on the topic of Machinr Learinig
+### Booklets on the topic of Machine Learinig
 -جزواتی از مباحث ماشین لرنینگ.
 -دو فایل با فرمت های  py و ipynb هست که بالای نود درصد به هم شبیه هستند. 
 -دلیل اوردن دو فایل با نام مشترک و مطالب مشابه:  بخاطر تفاوت های این دو ویرایشگر 
