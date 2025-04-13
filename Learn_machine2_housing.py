@@ -1,3 +1,16 @@
+#---
+---
+"""
+نکته برداری از سایت های:
+
+1. https://faradars.org/courses/machine-learning-using-python-fvpht0091
+
+ 2. و چت جی پی تی و جیمینی
+
+ """
+
+
+
 # !pip uninstall scikit-learn
 # !pip install scikit-learn==1.2.0
 # %%

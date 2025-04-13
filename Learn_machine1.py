@@ -1,13 +1,14 @@
-# نکته برداری از سایت های:
+"""
+نکته برداری از سایت های:
 
-# 1. https://www.youtube.com/watch?v=Nv4tDbCgMK0&list=PLs74m7pSWiut8T1HUKuBBLI7ldMMYZurw&index=2
+1. https://www.youtube.com/watch?v=Nv4tDbCgMK0&list=PLs74m7pSWiut8T1HUKuBBLI7ldMMYZurw&index=2
 
-#  2. بخش Stratified Sampling از سایت:
-# https://faradars.org/courses/machine-learning-using-python-fvpht0091
+ 2. بخش Stratified Sampling از سایت:
+https://faradars.org/courses/machine-learning-using-python-fvpht0091
 
-#  3. و چت جی پی تی و جیمینی
+ 3. و چت جی پی تی و جیمینی
 
- 
+ """
 ###_______________________________________________________________________________________________
 
 

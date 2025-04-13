@@ -7,3 +7,24 @@
 
 
 - ابتدا فایل به نام Learn_machine1 و سپس Learn_machine2_housing مطالعه شود 
+
+  - Learn_machine1 :
+    Supervised Learning (Use the "diabetes.csv" file):
+    معرفی مدلها و کلیات ماشین لرنینگ در یک فایل   
+        - بهینه سازی
+        - کلاسیفیکشن
+        - رگرسیون
+
+
+- Learn_machine2_housing: 
+  Supervised Learning(Use the "housing.csv" file ):
+      - بهینه سازی
+      - رگرسیون
+
+- Learn_machine3_classification:
+  Supervised Learning:
+        - کلاسیفیکشن
+
+  - Learn_machine4:
+        - مدلهای خطی
+        - بهینه سازی و  کمینه سازی
